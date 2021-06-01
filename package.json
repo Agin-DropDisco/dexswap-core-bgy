@@ -1,6 +1,6 @@
 {
   "name": "dexswap-core",
-  "version: "v0.0.1",
+  "version": "v0.0.1",
   "author": "Agin DropDisco",
   "files": [
     "contracts",
